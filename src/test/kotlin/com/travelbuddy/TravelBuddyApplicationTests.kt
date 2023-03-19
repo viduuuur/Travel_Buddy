@@ -8,6 +8,7 @@ class TravelBuddyApplicationTests {
 
 	@Test
 	fun contextLoads() {
+		//dumy
 	}
 
 }
